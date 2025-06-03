@@ -141,7 +141,7 @@ params:
       disableProjects: true
       disableAchievements: true
     customCSS: 
-      - css/custom.css
+      - css/font.css
 
   # Hero
   hero:
