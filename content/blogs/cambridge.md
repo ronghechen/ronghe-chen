@@ -2,7 +2,7 @@
 title: "Cambridge Recs - Food, Museums, and More!"
 date: 2025-08-17
 draft: false
-continents: ["Europe"]
+continent: ["Europe"]
 ---
 
 Last summer, I studied abroad at the Pembroke Cambridge Summer Programme. Cambridge is a nice city with lots to do, and here are some of my favorite spots!
