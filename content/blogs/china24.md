@@ -21,7 +21,7 @@ June 2024 - July 2024
 <div class="container">
    <div class="row">
           <img src="/images/china/noodles.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
-          <img src="/images/london/sushi.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
+          <img src="/images/china/sushi.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
     </div>
 </div>
 
@@ -30,7 +30,7 @@ June 2024 - July 2024
 <div class="container">
    <div class="row">
           <img src="/images/china/bobawaffle.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
-          <img src="/images/london/bobawaffle2.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
+          <img src="/images/china/bobawaffle2.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
     </div>
 </div>
 
@@ -45,7 +45,7 @@ June 2024 - July 2024
 <div class="container">
    <div class="row">
           <img src="/images/china/beach.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
-          <img src="/images/london/beach2.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
+          <img src="/images/china/beach2.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
     </div>
 </div>
 

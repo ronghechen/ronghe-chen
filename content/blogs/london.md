@@ -41,9 +41,6 @@ I went with some friends to watch Les Mis, and it was one of the best experience
 <div class="container">
    <div class="row">
           <img src="/images/london/haackephotographs.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
-    <div class="embed-responsive embed-responsive">
-          <iframe class="embed-responsive-item" src="/images/london/tate3.mp4" allowfullscreen></iframe>
-      </div>
     </div>
 </div>
 
