@@ -131,27 +131,13 @@ params:
   # Hero
   hero:
     enable: true
-    title: "✧･ﾟronghe chen"
-    subtitle: "designer & developer ✧･ﾟ"
-    content: "hello! my name is ronghe chen and i am a rising junior at northwestern university and aspiring ui/ux designer and front-end software engineer."
-    image: /images/pfp.png
+    title: "✧･ﾟHi!"
+    subtitle: "I'm Ronghe Chen ✧･ﾟ"
+    content: "I'm a junior at Northwestern University studying computer science who is also passionate about blogging, photography, and visiting different corners of the globe. Here I document all my travels - sharing pictures, food, and experiences."
+    image: /images/pfp.jpg
     bottomImage:
       enable: true
       roundImage: true # Make hero image circular | default false
-    button:
-      enable: true
-      name: "resume"
-      url: "/images/resume.pdf"
-      download: false
-      newPage: false
-    socialLinks:
-      fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://github.com/ronghechen
-        - icon: fab fa-linkedin
-          url: https://www.linkedin.com/in/ronghe-chen/
-        - icon: fab fa-behance
-          url: https://www.behance.net/ronghechen/
 
   # About
   about:
