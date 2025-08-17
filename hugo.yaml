@@ -30,26 +30,11 @@ markup:
 
 Menus:
   main:
-    - identifier: nu-transport
-      name: transportation app interface
-      url: https://www.figma.com/proto/wAuBDtKiUjtUa8D5EDGBVC/Untitled?node-id=0-1&t=UrFDewxDfO1FgUhi-1
-      parent: projects
-      weight: 1
-    - identifier: twr
-      name: travel with ronghe
-      url: https://ronghechen.github.io/travelwithronghe/
-      parent: projects
-      weight: 1
-    - identifier: studytimer
-      name: study timer
-      parent: projects
-      url: https://ronghechen.github.io/studytimer/
-      weight: 1
     - identifier: blog
       name: blog
       title: blog posts
       url: /blogs
-      weight: 3
+      weight: 1
 
 
     #Dropdown menu
