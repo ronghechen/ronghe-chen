@@ -131,8 +131,7 @@ params:
   # Hero
   hero:
     enable: true
-    title: "✧･ﾟHi!"
-    subtitle: "I'm Ronghe Chen ✧･ﾟ"
+    title: "✧･ﾟHi! I'm Ronghe Chen ✧･ﾟ"
     content: "I'm a junior at Northwestern University studying computer science who is also passionate about blogging, photography, and visiting different corners of the globe. Here I document all my travels - sharing pictures, food, and experiences."
     image: /images/pfp.jpg
     bottomImage:
@@ -141,7 +140,7 @@ params:
 
   # About
   about:
-    enable: false
+    enable: true
     title: "about me"
     image: "/images/me.png"
     content: |-
@@ -151,7 +150,7 @@ params:
 
       when i'm not staying up until the am debugging at mudd, i enjoy designing graphics, traveling, cafe hopping, cooking/baking, and hanging out with friends.
     skills:
-      enable: true
+      enable: false
       title: "here are a few technologies i've been working with recently:"
       items:
         - "html"
@@ -160,68 +159,6 @@ params:
         - "react"
         - "ruby on rails"
         - "figma"
-
-  # Experience
-  experience:
-    enable: true
-    title: "experience"
-    items:
-      - job: "incoming ai/ml ui/ux designer"
-        company: "product manager accelerator"
-        companyUrl: "https://www.pmaccelerator.io/AI-UI-UX-Designer-Intern"
-        date: "jun 2025 - sept 2025"
-        content: |-
-          - will develop user personas and user journeys to understand user behavior
-          - will create prototypes using design tools and iterate based on feedback
-          - will collaborate with developers, data scientists, designers, and product managers to design and build ai-powered products
-        featuredLink:
-          enable: false
-
-      - job: "campus leader"
-        company: "you.com"
-        companyUrl: "https://you.com/"
-        date: "mar 2025 - may 2025"
-        content: |-
-          - designed marketing campaigns for you.com on northwestern's campus, strengthening my skills in marketing strategy and cross-functional collaboration
-          - attended monthly meetings with you.com's sales, engineering, data science, and marketing teams to better understand how ai works
-        featuredLink:
-          enable: false
-
-      - job: "product management intern"
-        company: "vibing"
-        companyUrl: "https://www.linkedin.com/company/vibing-fun/"
-        date: "nov 2024 - feb 2025"
-        content: |-
-          - conducted user interviews gathering feedback on the interface
-          - conducted informal market research to identify emerging trends and social media used by target audience, providing insights to the product team
-          - helped train vivi (an ai relationship advice bot) to sound more humanlike and resonate more with target audience
-        featuredLink:
-          enable: false
-
-  # Education
-  education:
-    enable: true
-    title: "education"
-    index: false
-    items:
-      - title: "bachelor's degree"
-        school:
-          name: "northwestern university"
-          url: "https://www.northwestern.edu/"
-        date: "sep 2023 - jun 2027"
-        content: |-
-          - relevant coursework: design, thinking & communication, software studio, human-computer interaction, presenting ideas and data, data structures & algorithms, machine learning, research methods in psychology
-          - extracurricular activities: responsible use of ai student organization (web developer → website co-chair → treasurer), mccormick student advisory board (external relations team), chi omega (sisterhood committee)
-      - title: "study abroad"
-        school:
-          name: "pembroke cambridge summer programme"
-          url: "https://www.pem.cam.ac.uk/international-programmes/pembroke-cambridge-summer-programme"
-        date: "jul 2024 - aug 2024"
-        content: |-
-          - coursework in cybersecurity: the basics of ethical hacking, forensic psychology
-          - independent supervision: analysis of convolutional neural networks in spotify recommendations ([read paper](/images/spotify_cnns.pdf))
-        featuredLink:
-          enable: false
 
   # Achievements
   achievements:
