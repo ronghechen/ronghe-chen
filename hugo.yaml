@@ -134,7 +134,7 @@ params:
     title: "✧･ﾟtravel with ronghe ✧･ﾟ"
     subtitle: "Hi! I'm Ronghe Chen"
     content: "I'm a junior at Northwestern University studying computer science who is also passionate about blogging, photography, and visiting different corners of the globe. Here I document all my travels - sharing pictures, food, and experiences."
-    image: /images/pfp.jpg
+    image: /images/me.jpg
     bottomImage:
       enable: true
       roundImage: true # Make hero image circular | default false
@@ -143,7 +143,7 @@ params:
   about:
     enable: true
     title: "about me"
-    image: "/images/me.png"
+    image: "/images/pfp.png"
     content: |-
       i am a rising junior at northwestern's mccormick school of engineering double majoring in computer science and psychology with a segal design certificate. i am passionate about front-end development and ux design, particularly designing interfaces for ai-powered products. this summer, i am interning at product manager accelerator as a ui/ux designer for generative ai applications.
 
@@ -163,7 +163,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     title: "achievements"
     items:
       - title: amazon campus prep series
@@ -179,7 +179,7 @@ params:
   # projects
   projects:
     enable: true
-    title: "projects"
+    title: "filter by continent..."
     items:
       - title: transportation app interface
         content: a prototype for a transportation app that i made for my human-computer interaction (cs 330) class.
