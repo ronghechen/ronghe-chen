@@ -4,7 +4,7 @@ title: "⋆｡˚ ✈︎ travel with ronghe"
 theme: "hugo-profile"
 
 taxonomies:
-  continent: "continents"
+  continent: "continent"
 
 outputs:
   home:
