@@ -187,8 +187,6 @@ params:
         featured:
           name: Demo
           link: https://www.figma.com/proto/wAuBDtKiUjtUa8D5EDGBVC/Untitled?node-id=0-1&t=UrFDewxDfO1FgUhi-1
-        badges:
-          - "Figma"
         links:
 
       - title: North America
@@ -196,26 +194,13 @@ params:
         featured:
           name: Demo
           link: https://ronghechen.github.io/travelwithronghe/index.html
-        badges:
-          - "HTML"
-          - "CSS"
-          - "JavaScript"
         links:
-          - icon: fab fa-github
-            url: https://github.com/ronghechen/travelwithronghe
 
       - title: Asia
         image: /images/chineseStreet.png
         featured:
           name: Demo
           link: https://ronghechen.github.io/studytimer/
-        badges:
-          - "HTML"
-          - "CSS"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/ronghechen/studytimer
 
   footer:
     recentPosts:
