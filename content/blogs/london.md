@@ -7,6 +7,8 @@ continent: ["Europe"]
 
 When studying abroad at Cambridge, I've had a couple of opportunities to visit London. Here are some things you MUST do there:
 
+<!--more-->
+
 <img src="/images/london/londonCover.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
 
 #### Big Ben (pictured above)
@@ -88,7 +90,7 @@ Also went here twice, and I still didn't get through the whole museum because it
 
 <div class="container">
    <div class="row">
-          <img src="/images/london/borough market.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
+          <img src="/images/london/borough-market.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
           <img src="/images/london/greenjuice.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
     </div>
 </div>
