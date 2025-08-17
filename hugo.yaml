@@ -3,6 +3,9 @@ languageCode: "en-us"
 title: "⋆｡˚ ✈︎ travel with ronghe"
 theme: "hugo-profile"
 
+taxonomies:
+  continent: "continents"
+
 outputs:
   home:
     - "HTML"
@@ -185,22 +188,22 @@ params:
       - title: Europe
         image: /images/louvre.png
         featured:
-          name: Demo
-          link: https://www.figma.com/proto/wAuBDtKiUjtUa8D5EDGBVC/Untitled?node-id=0-1&t=UrFDewxDfO1FgUhi-1
+          name: View Posts
+          link: /continent/europe/
         links:
 
       - title: North America
         image: /images/timesSquare.png
         featured:
-          name: Demo
-          link: https://ronghechen.github.io/travelwithronghe/index.html
+          name: View Posts
+          link: /continent/north-america/
         links:
 
       - title: Asia
         image: /images/chineseStreet.png
         featured:
-          name: Demo
-          link: https://ronghechen.github.io/studytimer/
+          name: View Posts
+          link: /continent/asia/
 
   footer:
     recentPosts:
