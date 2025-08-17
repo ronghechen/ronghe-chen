@@ -89,7 +89,7 @@ I saw another museum, the Moco Museum. This one was a bit more of a modern art m
   </button>
 </div>
 
-At this point, I was so tired that I went back to my Airbnb and took a nap. After I woke up at around dinner time, I got some noodles, walked around the streets of Amsterdam, did some cheese sampling, and basically just hung out with friends for the rest of the night.
+At this point, I was so tired that I went back to my Airbnb and took a nap. After I woke up at around dinner time, I got some noodles, walked around the streets of Amsterdam, did some cheese sampling, and went out with friends for the rest of the night.
 
 ## Sunday, August 11th
 
