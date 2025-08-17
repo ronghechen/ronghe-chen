@@ -142,7 +142,7 @@ params:
   # About
   about:
     enable: true
-    title: "about me"
+    title: "About Me"
     image: "/images/pfp.jpg"
     content: |-
       Welcome to Travel with Ronghe! I'm Ronghe - developer, designer, traveler, and storyteller. I love being able to wear so many hats, and I built this website to share my love for exploring new cities, capturing moments through a lens, and tasting food that tells a story. 
@@ -180,11 +180,10 @@ params:
   # projects
   projects:
     enable: true
-    title: "filter by continent..."
+    title: "Filter by continent..."
     items:
-      - title: europe
-        content: a prototype for a transportation app that i made for my human-computer interaction (cs 330) class.
-        image: /images/transportation_app.png
+      - title: Europe
+        image: /images/louvre.png
         featured:
           name: Demo
           link: https://www.figma.com/proto/wAuBDtKiUjtUa8D5EDGBVC/Untitled?node-id=0-1&t=UrFDewxDfO1FgUhi-1
@@ -192,9 +191,8 @@ params:
           - "Figma"
         links:
 
-      - title: north america
-        content: a travel blog that i coded from scratch, sharing experiences all around the world.
-        image: /images/twr.png
+      - title: North America
+        image: /images/timesSquare.png
         featured:
           name: Demo
           link: https://ronghechen.github.io/travelwithronghe/index.html
@@ -206,9 +204,8 @@ params:
           - icon: fab fa-github
             url: https://github.com/ronghechen/travelwithronghe
 
-      - title: asia
-        content: a pomodoro-style study timer web app.
-        image: /images/study_timer.png
+      - title: Asia
+        image: /images/chineseStreet.png
         featured:
           name: Demo
           link: https://ronghechen.github.io/studytimer/
