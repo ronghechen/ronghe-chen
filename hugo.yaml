@@ -131,7 +131,8 @@ params:
   # Hero
   hero:
     enable: true
-    title: "✧･ﾟHi! I'm Ronghe Chen ✧･ﾟ"
+    title: "✧･ﾟtravel with ronghe ✧･ﾟ"
+    subtitle: "Hi! I'm Ronghe Chen"
     content: "I'm a junior at Northwestern University studying computer science who is also passionate about blogging, photography, and visiting different corners of the globe. Here I document all my travels - sharing pictures, food, and experiences."
     image: /images/pfp.jpg
     bottomImage:
