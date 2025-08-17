@@ -145,11 +145,12 @@ params:
     title: "about me"
     image: "/images/pfp.jpg"
     content: |-
-      i am a rising junior at northwestern's mccormick school of engineering double majoring in computer science and psychology with a segal design certificate. i am passionate about front-end development and ux design, particularly designing interfaces for ai-powered products. this summer, i am interning at product manager accelerator as a ui/ux designer for generative ai applications.
+      Welcome to Travel with Ronghe! I'm Ronghe - developer, designer, traveler, and storyteller. I love being able to wear so many hats, and I built this website to share my love for exploring new cities, capturing moments through a lens, and tasting food that tells a story. 
 
-      i was previously a product management intern at vibing, an ai-powered dating app that focuses on authentic connections, as well as a campus ambassador for you.com, an ai search engine that maximizes workplace productivity. this fall, i will be participating in the design, technology, research (dtr) program at northwestern where i am excited to grow as a researcher, developer, and designer.
+      What I enjoy about travel is the diversity of experiences - from famous landmarks to quiet side streets. Here you’ll find snapshots of the places that have inspired me, from bustling markets to hidden cafés.
 
-      when i'm not staying up until the am debugging at mudd, i enjoy designing graphics, traveling, cafe hopping, cooking/baking, and hanging out with friends.
+      Just like in UX, travel teaches me to notice details, empathize with people, and design better experiences.
+
     skills:
       enable: false
       title: "here are a few technologies i've been working with recently:"
