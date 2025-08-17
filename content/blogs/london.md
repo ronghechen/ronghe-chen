@@ -41,9 +41,9 @@ I went with some friends to watch Les Mis, and it was one of the best experience
 <div class="container">
    <div class="row">
           <img src="/images/london/haackephotographs.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
-          <div class="embed-responsive embed-responsive">
-            <iframe class="embed-responsive-item" src="/images/london/tate3.mp4" allowfullscreen></iframe>
-          </div>
+    <div class="embed-responsive embed-responsive">
+          <iframe class="embed-responsive-item" src="/images/london/tate3.mp4" allowfullscreen></iframe>
+      </div>
     </div>
 </div>
 
@@ -98,6 +98,10 @@ Also went here twice, and I still didn't get through the whole museum because it
 
 So many good eats here, the other day a friend & I got green juice here!
 
+#### Covent Garden
+
+Lots of shops, restaurants, bars, and even a market place! I got to sample some teas at this tea shop, which was one of my favorite memories from the trip.
+
 #### Walk across Tower Bridge
 
 <img src="/images/london/bridge.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
@@ -112,11 +116,11 @@ Although I didn't actually go in, I was still able to get a great view of the ar
 
 Lots of good food here, and I was able to get in touch with my culture.
 
-#### Get Drinks at the Alchemist
+#### The Alchemist
 
 <img src="/images/london/alchemist.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
 
-The Alchemist is a magic/alchemy themed bar in Covent Garden. Went here with a friend, and I loved the presentation of the drinks. I ordered an espresso martini and a French dip sandwich.
+The Alchemist is a magic/alchemy-themed bar in Covent Garden, known for its creative drink presentations and theatrical atmosphere. I went with a friend and really enjoyed the experience — the espresso martini came with a playful twist, and the French dip sandwich was a great pairing.
 
 #### Walk around Soho
 
