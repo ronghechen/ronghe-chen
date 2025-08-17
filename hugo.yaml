@@ -34,7 +34,7 @@ markup:
 Menus:
   main:
     - identifier: blog
-      name: blog
+      name: Blog
       title: blog posts
       url: /blogs
       weight: 1
@@ -134,7 +134,7 @@ params:
   # Hero
   hero:
     enable: true
-    title: "✧･ﾟtravel with ronghe ✧･ﾟ"
+    title: "✧･ﾟtravel with ronghe"
     subtitle: "Hi! I'm Ronghe Chen"
     content: "I'm a junior at Northwestern University studying computer science who is also passionate about blogging, photography, and visiting different corners of the globe. Here I document all my travels - sharing pictures, food, and experiences."
     image: /images/me.png
