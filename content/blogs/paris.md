@@ -6,6 +6,8 @@ continent: ["Europe"]
 ---
 August 3-4, 2024
 
+<!--more-->
+
 <img src="/images/paris/cover.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
 
 Spend a weekend with me in the city of love!

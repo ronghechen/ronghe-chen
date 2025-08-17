@@ -7,6 +7,8 @@ continent: ["Europe"]
 
 Last summer, I studied abroad at the Pembroke Cambridge Summer Programme. Cambridge is a nice city with lots to do, and here are some of my favorite spots!
 
+<!--more-->
+
 <img src="/images/cbg/cambridgeCover.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
 
 ## Food

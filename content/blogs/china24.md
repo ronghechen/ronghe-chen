@@ -5,10 +5,11 @@ draft: false
 continent: ["Asia"]
 ---
 
+June 2024 - July 2024
+
+<!--more-->
 
 <img src="/images/china/chinaCover.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
-
-June 2024 - July 2024
 
 ## Eats
 

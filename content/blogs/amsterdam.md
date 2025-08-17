@@ -6,6 +6,8 @@ continent: ["Europe"]
 ---
 August 9-11, 2024
 
+<!--more-->
+
 <img src="/images/amsterdam/cover.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
 
 Last weekend in Europe, spent it in Amsterdam (and Brussels!)
