@@ -7,9 +7,9 @@ continent: ["North America"]
 
 August 13, 2025
 
-<img src="/images/mackinac/street2.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
-
 <!--more-->
+
+<img src="/images/mackinac/street2.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
 
 Spend a day with me on this picturesque, car-free island!
 
@@ -19,7 +19,7 @@ Got there early in the morning via ferry and caught this view.
 
 <div class="container">
    <div class="row">
-          <img src="/images/mackinac/street1.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
+          <img src="/images/mackinac/street.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
           <img src="/images/mackinac/street3.png" class="mx-auto d-block" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%;">
     </div>
 </div>
