@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>North America on ⋆｡˚ ✈︎ travel with ronghe</title>
+    <link>http://localhost:1313/continent/north-america/</link>
+    <description>Recent content in North America on ⋆｡˚ ✈︎ travel with ronghe</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/continent/north-america/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2 Days in Canada</title>
+      <link>http://localhost:1313/blogs/canada/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/canada/</guid>
+      <description>&lt;p&gt;August 14-15, 2025&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day Trip to Mackinac</title>
+      <link>http://localhost:1313/blogs/mackinac/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/mackinac/</guid>
+      <description>&lt;p&gt;August 13, 2025&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spring Break in Boston</title>
+      <link>http://localhost:1313/blogs/boston/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/boston/</guid>
+      <description>&lt;p&gt;March 24-31, 2025&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Things to do in NYC (Manhattan)</title>
+      <link>http://localhost:1313/blogs/nyc/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/nyc/</guid>
+      <description>&lt;p&gt;Spent New Year&amp;rsquo;s Eve in NYC and had the opportunity to visit a lot of tourist attractions. Since NYC is huge, I&amp;rsquo;ll be focusing on Manhattan only in this post, which is where I was most of the time. So, without further ado, here are some things to do in Manhattan!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
