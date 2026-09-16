@@ -2,80 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on ⋆｡˚ ✈︎ travel with ronghe</title>
-    <link>http://localhost:1313/blogs/</link>
+    <link>http://localhost:53782/blogs/</link>
     <description>Recent content in Blogs on ⋆｡˚ ✈︎ travel with ronghe</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Sep 2026 12:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:53782/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Japan: Typhoons, TeamLab &amp; Taking Advantage of the Weak Yen</title>
+      <link>http://localhost:53782/blogs/japan/</link>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 -0500</pubDate>
+      <guid>http://localhost:53782/blogs/japan/</guid>
+      <description>&lt;p&gt;September 16, 2026&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Eating my way through LA</title>
-      <link>http://localhost:1313/blogs/la/</link>
+      <link>http://localhost:53782/blogs/la/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/la/</guid>
+      <guid>http://localhost:53782/blogs/la/</guid>
       <description>&lt;p&gt;March 25th - 29th, 2026&lt;/p&gt;</description>
     </item>
     <item>
       <title>2 Days in Canada</title>
-      <link>http://localhost:1313/blogs/canada/</link>
+      <link>http://localhost:53782/blogs/canada/</link>
       <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/canada/</guid>
+      <guid>http://localhost:53782/blogs/canada/</guid>
       <description>&lt;p&gt;August 14-15, 2025&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cambridge Recs - Food, Museums, and More!</title>
-      <link>http://localhost:1313/blogs/cambridge/</link>
+      <link>http://localhost:53782/blogs/cambridge/</link>
       <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/cambridge/</guid>
+      <guid>http://localhost:53782/blogs/cambridge/</guid>
       <description>&lt;p&gt;Last summer, I studied abroad at the Pembroke Cambridge Summer Programme. Cambridge is a nice city with lots to do, and here are some of my favorite spots!&lt;/p&gt;</description>
     </item>
     <item>
       <title>China 2024 - Photo Archive</title>
-      <link>http://localhost:1313/blogs/china24/</link>
+      <link>http://localhost:53782/blogs/china24/</link>
       <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/china24/</guid>
+      <guid>http://localhost:53782/blogs/china24/</guid>
       <description>&lt;p&gt;June 2024 - July 2024&lt;/p&gt;</description>
     </item>
     <item>
       <title>Day Trip to Mackinac</title>
-      <link>http://localhost:1313/blogs/mackinac/</link>
+      <link>http://localhost:53782/blogs/mackinac/</link>
       <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/mackinac/</guid>
+      <guid>http://localhost:53782/blogs/mackinac/</guid>
       <description>&lt;p&gt;August 13, 2025&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spring Break in Boston</title>
-      <link>http://localhost:1313/blogs/boston/</link>
+      <link>http://localhost:53782/blogs/boston/</link>
       <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/boston/</guid>
+      <guid>http://localhost:53782/blogs/boston/</guid>
       <description>&lt;p&gt;March 24-31, 2025&lt;/p&gt;</description>
     </item>
     <item>
       <title>Things to do in London</title>
-      <link>http://localhost:1313/blogs/london/</link>
+      <link>http://localhost:53782/blogs/london/</link>
       <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/london/</guid>
+      <guid>http://localhost:53782/blogs/london/</guid>
       <description>&lt;p&gt;When studying abroad at Cambridge, I&amp;rsquo;ve had a couple of opportunities to visit London. Here are some things you MUST do there:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Things to do in NYC (Manhattan)</title>
-      <link>http://localhost:1313/blogs/nyc/</link>
+      <link>http://localhost:53782/blogs/nyc/</link>
       <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/nyc/</guid>
+      <guid>http://localhost:53782/blogs/nyc/</guid>
       <description>&lt;p&gt;Spent New Year&amp;rsquo;s Eve in NYC and had the opportunity to visit a lot of tourist attractions. Since NYC is huge, I&amp;rsquo;ll be focusing on Manhattan only in this post, which is where I was most of the time. So, without further ado, here are some things to do in Manhattan!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weekend in Amsterdam</title>
-      <link>http://localhost:1313/blogs/amsterdam/</link>
+      <link>http://localhost:53782/blogs/amsterdam/</link>
       <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/amsterdam/</guid>
+      <guid>http://localhost:53782/blogs/amsterdam/</guid>
       <description>&lt;p&gt;August 9-11, 2024&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weekend in Paris</title>
-      <link>http://localhost:1313/blogs/paris/</link>
+      <link>http://localhost:53782/blogs/paris/</link>
       <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/paris/</guid>
+      <guid>http://localhost:53782/blogs/paris/</guid>
       <description>&lt;p&gt;August 3-4, 2024&lt;/p&gt;</description>
     </item>
   </channel>
