@@ -67,9 +67,6 @@ My favorite exhibit was "On the Asymmetry of the Universe". Rays of light and co
       <img src="/images/japan/borderless3.png" class="d-block w-100" alt="Project 3">
     </div>
     <div class="carousel-item">
-      <img src="/images/japan/borderless4.png" class="d-block w-100" alt="Project 3">
-    </div>
-    <div class="carousel-item">
       <img src="/images/japan/borderless5.png" class="d-block w-100" alt="Project 3">
     </div>
   </div>
@@ -114,7 +111,7 @@ For dinner, I got ramen at the food hall at Kyoto Station.
 
 This morning I visited Nara Deer Park. It was about an hour of a train ride, and I had the opportunity to sleep on the train. As soon as I got there, it was raining pretty intensely. After seeing some deer, we visited some Buddhist temples, which were very photogenic places. I got lots of pictures. For lunch, I got cold ramen, which I thought was pretty good, but the meat was a bit too fatty. In the afternoon, I had a ticket for TeamLabs Biovortex. I almost skipped and I’m so glad I didn’t. 
 
-<div id="carouselExample" class="carousel slide" data-bs-ride="carousel" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%; margin-left: 25%;">
+<div id="biovortexCarousel" class="carousel slide" data-bs-ride="carousel" style="max-width: 50%; margin-top: 5%; margin-bottom: 5%; margin-left: 25%;">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="/images/japan/biovortex1.png" class="d-block w-100" alt="Project 1">
@@ -132,10 +129,10 @@ This morning I visited Nara Deer Park. It was about an hour of a train ride, and
       <img src="/images/japan/biovortex5.png" class="d-block w-100" alt="Project 3">
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#biovortexCarousel" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="#biovortexCarousel" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
   </button>
 </div>
